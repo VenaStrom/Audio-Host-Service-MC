@@ -1,6 +1,6 @@
 # Audio Hosting For Minecraft Server
 
-Hosted on [GitHub Pages](https://viggostrom.github.io/Audio-Host-Service-MC/).
+Hosted on [GitHub Pages](https://VenaStrom.github.io/Audio-Host-Service-MC/).
 
 ![Screenshot](screenshots/main-page.png)
 
